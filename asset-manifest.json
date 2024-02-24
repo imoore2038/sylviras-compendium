@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sylviras-compendium/static/css/main.4db2b1c4.css",
+    "main.js": "/sylviras-compendium/static/js/main.1d19cea7.js",
+    "static/js/453.a2b74011.chunk.js": "/sylviras-compendium/static/js/453.a2b74011.chunk.js",
+    "static/media/Sylvira.png": "/sylviras-compendium/static/media/Sylvira.93fb6c79352c1c0c48ab.png",
+    "index.html": "/sylviras-compendium/index.html",
+    "main.4db2b1c4.css.map": "/sylviras-compendium/static/css/main.4db2b1c4.css.map",
+    "main.1d19cea7.js.map": "/sylviras-compendium/static/js/main.1d19cea7.js.map",
+    "453.a2b74011.chunk.js.map": "/sylviras-compendium/static/js/453.a2b74011.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4db2b1c4.css",
+    "static/js/main.1d19cea7.js"
+  ]
+}
