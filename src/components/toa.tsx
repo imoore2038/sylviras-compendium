@@ -1,8 +1,18 @@
-import React from 'react'
+import React, { useState, useEffect } from "react";
+import MarkdownRenderer from './MarkdownRenderer.tsx'
+import file from "../LoremIpsum.md"
 
-const TombOfAnnihilation =  ()=> {
+const TombOfAnnihilation = () => {
+    const [markdown, setMarkdown] = useState("");
+
+    useEffect(() => {
+        fetch(file)
+            .then((res) => res.text())
+            .then((text) => setMarkdown(text));
+    }, []);
+
     return (
-        <p>Tomb of annihilation</p>
+        <MarkdownRenderer markdown={markdown}></MarkdownRenderer>
     )
 }
 

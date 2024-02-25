@@ -9,16 +9,16 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div style={{ fontWeight: 'bold', padding: '10px' }} onClick={()=>{history.push("/")}}>
+        <div style={{ fontWeight: 'bold', padding: '10px 100px' }} onClick={() => { history.push("/") }}>
           Sylvira's Compendium of Faerûn
         </div>
       </header>
-      <Switch>
-        <Route exact path="/" component={Home}/>
-        <Route exact path="/tomb-of-annihilation" component={TombOfAnnihilation}/>
-      </Switch>
       <div style={{ padding: '15px 50px', backgroundColor: '#EEE' }}>
-        <div style={{backgroundColor:'lightcoral', fontWeight:'bold', padding:'10px', color:'white'}}>This website is a work in progress, and is currently in its infancy. More content will arrive over time.</div>
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route exact path="/tomb-of-annihilation" component={TombOfAnnihilation} />
+        </Switch>
+        <div style={{ backgroundColor: 'lightcoral', fontWeight: 'bold', padding: '10px', color: 'white' }}>This website is a work in progress, and is currently in its infancy. More content will arrive over time.</div>
       </div>
     </div>
   );
