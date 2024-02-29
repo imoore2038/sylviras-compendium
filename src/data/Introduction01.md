@@ -1,0 +1,9 @@
+# Welcome to the Realms
+
+Welcome to a world of magic and adventure. Originally created by Ed Greenwood, the Forgotten Realms setting has been home to Dungeons & Dragons stories and games for decades. Built for tales of swords and sorcery, the Realms initially grew and flourished in Ed's D&D campaign, which featured heroes like the Knights of Myth Drannor in the Dalelands. Ed also shared glimpses of the Realms in the pages of Dragon magazine, giving D&D players their first tales from the wizard Elminster, the old sage of Shadowdale, who occasionally found his way through a portal between Faerûn and our world and into Ed's living room.
+
+Though 5th edition did see the release of the Sword Coast Adventurer's Guide, most of the Forgotten Realms lore is sourced from older editions. This compendium sees the modernising of some of that worldbuilding, as well as the introduction of new ideas, new mechanics, and expansions on older concepts. Not all of it will align with what is considered official canon, but this compendium serves as a wiki and source for any questions you might have about our Realms.
+
+In the years since, the Forgotten Realms have played host to a vast number of game products, novels, video games, and more, making it one of the most widely visited fantasy settings ever created. The lost portals to the Realms have returned and remained open in the depths of our imaginations and do so to this day, as more and more visitors find their way there.
+
+The lore of the Realms is vast, and this compendium will continue to grow as new sources are uncovered. Tales from our own games, lore written by everyone at the table, and characters of heroic renown will live within these pages, for the world of Toril is ever-growing.

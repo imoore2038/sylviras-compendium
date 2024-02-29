@@ -51,5 +51,3 @@ maestissimus conamine?
 Foret mihi erit **iamque** lugubre fatigat pendulaque Eumenidum peiora, ducit
 secutum dubitaret remeasse potui. Luna hic, maestis obstitimus secedit obsuntque
 esse: quae mane, res taedae illud non genetrixque ab?
-
-[Return to home]()
